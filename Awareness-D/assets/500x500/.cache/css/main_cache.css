@@ -1,0 +1,19 @@
+
+
+#copy1_2x {
+	left:12px;
+	top:94px;
+	width:488px;
+	height:293px;
+	background-image:url(../img/copy1_2x.png);
+	background-size:488px 293px;
+}
+
+#copy2_2x {
+	left:113px;
+	top:164px;
+	width:273px;
+	height:183px;
+	background-image:url(../img/copy2_2x.png);
+	background-size:273px 183px;
+}

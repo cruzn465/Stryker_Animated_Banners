@@ -1,0 +1,173 @@
+body { margin:0px 0px; padding:0px; } 
+
+* { 
+	box-sizing: Border-box;
+	-webkit-backface-visibility: hidden;
+  	-webkit-perspective: 1000px; 
+	-ms-overflow-style: hidden;
+}  
+
+#container{
+	background-color:white;
+	position:absolute;
+	overflow:hidden;
+	border: 1px solid black;
+} 
+
+.sprite {
+	position:absolute;
+	background-repeat:no-repeat;
+}
+
+.tackright {
+	background-position: right;
+	overflow: hidden;
+}
+
+.sheen {
+	opacity: .8;
+	position: relative;
+	height: 100%;
+	background: rgb(0, 0, 0);
+	background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 0) 100%);
+}
+
+#logo_2x {
+	left:323px;
+	top:39px;
+	width:138px;
+	height:35px;
+	background-image:url(../img/logo_2x.png);
+	background-size:138px 35px;
+}
+
+#copy1_2x {
+	left:76px;
+	top:160px;
+	width:347px;
+	height:153px;
+	background-image:url(../img/copy1_2x.png);
+	background-size:347px 153px;
+}
+
+#copy2_2x {
+	left:184px;
+	top:230px;
+	width:134px;
+	height:39px;
+	background-image:url(../img/copy2_2x.png);
+	background-size:134px 39px;
+}
+
+#copy3_2x {
+	left:187px;
+	top:227px;
+	width:125px;
+	height:42px;
+	background-image:url(../img/copy3_2x.png);
+	background-size:125px 42px;
+}
+
+#copy4_2x {
+	left:82px;
+	top:226px;
+	width:337px;
+	height:47px;
+	background-image:url(../img/copy4_2x.png);
+	background-size:337px 47px;
+}
+
+#cta_2x {
+	left:128px;
+	top:354px;
+	width:244px;
+	height:61px;
+	background-image:url(../img/cta_2x.png);
+	background-size:244px 61px;
+}
+
+#ef1_2x {
+	left:70px;
+	top:174px;
+	width:205px;
+	height:39px;
+	background-image:url(../img/ef1_2x.png);
+	background-size:205px 39px;
+}
+
+#ef2_2x {
+	left:293px;
+	top:174px;
+	width:139px;
+	height:40px;
+	background-image:url(../img/ef2_2x.png);
+	background-size:139px 40px;
+}
+
+#ef3_2x {
+	left:170px;
+	top:225px;
+	width:158px;
+	height:51px;
+	background-image:url(../img/ef3_2x.png);
+	background-size:158px 51px;
+}
+
+#ef4_2x {
+	left:118px;
+	top:225px;
+	width:264px;
+	height:40px;
+	background-image:url(../img/ef4_2x.png);
+	background-size:264px 40px;
+}
+
+#ef_legal_2x {
+	left:43px;
+	top:453px;
+	width:412px;
+	height:28px;
+	background-image:url(../img/ef_legal_2x.png);
+	background-size:412px 28px;
+}
+
+#legal_2x {
+	left:43px;
+	top:453px;
+	width:412px;
+	height:28px;
+	background-image:url(../img/legal_2x.png);
+	background-size:412px 28px;
+}
+
+#bg1 {
+	left:0px;
+	top:0px;
+	width:500px;
+	height:500px;
+	background-image:url(../img/bg1.jpg);
+}
+
+#bg2 {
+	left:0px;
+	top:0px;
+	width:500px;
+	height:500px;
+	background-image:url(../img/bg2.jpg);
+}
+
+#bg3 {
+	left:0px;
+	top:0px;
+	width:500px;
+	height:500px;
+	background-image:url(../img/bg3.jpg);
+}
+
+#bg4 {
+	left:0px;
+	top:0px;
+	width:500px;
+	height:500px;
+	background-image:url(../img/bg4.jpg);
+}

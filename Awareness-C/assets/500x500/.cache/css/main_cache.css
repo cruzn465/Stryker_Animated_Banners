@@ -1,0 +1,27 @@
+
+
+#copy1_2x {
+	left:42px;
+	top:226px;
+	width:414px;
+	height:102px;
+	background-image:url(../img/copy1_2x.png);
+	background-size:414px 102px;
+}
+
+#cta_2x {
+	left:128px;
+	top:354px;
+	width:244px;
+	height:61px;
+	background-image:url(../img/cta_2x.png);
+	background-size:244px 61px;
+}
+
+#bg1 {
+	left:0px;
+	top:0px;
+	width:500px;
+	height:500px;
+	background-image:url(../img/bg1.jpg);
+}
