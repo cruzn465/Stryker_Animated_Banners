@@ -1,0 +1,28 @@
+
+
+#ef1_2x {
+	left:16px;
+	top:292px;
+	width:95px;
+	height:26px;
+	background-image:url(../img/ef1_2x.png);
+	background-size:95px 26px;
+}
+
+#ef2_2x {
+	left:15px;
+	top:321px;
+	width:130px;
+	height:63px;
+	background-image:url(../img/ef2_2x.png);
+	background-size:130px 63px;
+}
+
+#ef3_2x {
+	left:14px;
+	top:389px;
+	width:74px;
+	height:54px;
+	background-image:url(../img/ef3_2x.png);
+	background-size:74px 54px;
+}

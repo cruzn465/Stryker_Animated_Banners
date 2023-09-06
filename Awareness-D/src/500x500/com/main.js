@@ -69,7 +69,7 @@ function animate(){
 
     // ef
     .from(logo_2x,.4,{opacity:0})
-    .from(ef1_2x,.2,{opacity:0,ease:Quad.easeOut,width:0})
+    .from(ef1_2x,.2,{opacity:0,ease:Quad.easeOut,width:0}   )
     .from(ef2_2x,.2,{opacity:0,ease:Quad.easeOut,width:0},"+=.2")
     .from(ef3_2x,.4,{ease:Quad.easeOut,width:0},"+=.2")
     .to(ef3_2x,.2,{opacity:0,ease:Quad.easeOut,width:0,x:dimensions.width/2},"efSwitch+=.5")

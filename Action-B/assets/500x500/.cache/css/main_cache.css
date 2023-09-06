@@ -1,0 +1,62 @@
+
+
+#copy1_2x {
+	left:184px;
+	top:230px;
+	width:134px;
+	height:39px;
+	background-image:url(../img/copy1_2x.png);
+	background-size:134px 39px;
+}
+
+#copy2_2x {
+	left:187px;
+	top:226px;
+	width:125px;
+	height:42px;
+	background-image:url(../img/copy2_2x.png);
+	background-size:125px 42px;
+}
+
+#ef1_2x {
+	left:79px;
+	top:226px;
+	width:343px;
+	height:47px;
+	background-image:url(../img/ef1_2x.png);
+	background-size:343px 47px;
+}
+
+#ef2_2x {
+	left:117px;
+	top:201px;
+	width:267px;
+	height:40px;
+	background-image:url(../img/ef2_2x.png);
+	background-size:267px 40px;
+}
+
+#ef3_2x {
+	left:119px;
+	top:257px;
+	width:263px;
+	height:40px;
+	background-image:url(../img/ef3_2x.png);
+	background-size:263px 40px;
+}
+
+#bg1 {
+	left:0px;
+	top:0px;
+	width:500px;
+	height:500px;
+	background-image:url(../img/bg1.jpg);
+}
+
+#bg2 {
+	left:0px;
+	top:0px;
+	width:500px;
+	height:500px;
+	background-image:url(../img/bg2.jpg);
+}

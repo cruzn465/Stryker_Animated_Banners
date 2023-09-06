@@ -51,7 +51,7 @@ function animate(){
     .to([bg1,copy1_2x],.4,{opacity:0,ease:Quad.easeOut},"-=.7")
 
     // f2
-    .to(bg2,3.1,{ease:Quad.easeOut,scale: 1.1,x:15},"-=.4")
+    .to(bg2,3.1,{ease:Quad.easeOut,scale: 1.15},"-=.4")
     .from(copy2_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"f2c-=3")
     .to([bg2,copy2_2x],.4,{opacity:0,ease:Quad.easeOut},"-=.7")
 

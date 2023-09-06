@@ -46,22 +46,22 @@ function animate(){
     //timeline animation here
     tl
     // f1
-    .to(bg1,3.1,{ease:Quad.easeOut,scale: 1.1,x:15},"-=.4")
+    .to(bg1,3.1,{ease:Quad.easeOut,scale: 1.1,x:15},"-=.5")
     .from(copy1_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"f1c-=3")
     .to([bg1,copy1_2x],.4,{opacity:0,ease:Quad.easeOut},"-=.7")
 
     // f2
-    .to(bg2,3.1,{ease:Quad.easeOut,scale: 1.1,x:15},"-=.4")
+    .to(bg2,3.1,{ease:Quad.easeOut,scale: 1.15,x:15},"-=.6")
     .from(copy2_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"f2c-=3")
     .to([bg2,copy2_2x],.4,{opacity:0,ease:Quad.easeOut},"-=.7")
 
     // f3
-    .to(bg3,3.1,{ease:Quad.easeOut,scale: 1.1},"-=.4")
+    .to(bg3,3.1,{ease:Quad.easeOut,scale: 1.1},"-=.5")
     .from(copy3_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"f3c-=3")
     .to([bg3,copy3_2x],.4,{opacity:0,ease:Quad.easeOut},"-=.7")
 
     // f4
-    .to(bg4,3.3,{ease:Quad.easeOut,scale: 1.1,x:15},"-=.4")
+    .to(bg4,3.3,{ease:Quad.easeOut,scale: 1.1,x:15},"-=.5")
     .from(copy4_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"f4c-=3")
     .to([bg4,copy4_2x,legal_2x],.4,{opacity:0,ease:Quad.easeOut},"ef-=.6")
     .from(ef_legal_2x,.4,{opacity:0,ease:Quad.easeOut},"ef-=.7")
