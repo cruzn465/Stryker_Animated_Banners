@@ -1,0 +1,141 @@
+
+
+#copy1_2x {
+	left:21px;
+	top:32px;
+	width:514px;
+	height:30px;
+	background-image:url(../img/copy1_2x.png);
+	background-size:514px 30px;
+}
+
+#copy2_2x {
+	left:20px;
+	top:33px;
+	width:74px;
+	height:22px;
+	background-image:url(../img/copy2_2x.png);
+	background-size:74px 22px;
+}
+
+#copy3_2x {
+	left:21px;
+	top:31px;
+	width:68px;
+	height:23px;
+	background-image:url(../img/copy3_2x.png);
+	background-size:68px 23px;
+}
+
+#copy4_2x {
+	left:21px;
+	top:33px;
+	width:197px;
+	height:28px;
+	background-image:url(../img/copy4_2x.png);
+	background-size:197px 28px;
+}
+
+#cta_2x {
+	left:444px;
+	top:33px;
+	width:97px;
+	height:24px;
+	background-image:url(../img/cta_2x.png);
+	background-size:97px 24px;
+}
+
+#ef1_2x {
+	left:20px;
+	top:33px;
+	width:74px;
+	height:22px;
+	background-image:url(../img/ef1_2x.png);
+	background-size:74px 22px;
+}
+
+#ef2_2x {
+	left:105px;
+	top:31px;
+	width:68px;
+	height:23px;
+	background-image:url(../img/ef2_2x.png);
+	background-size:68px 23px;
+}
+
+#ef3_2x {
+	left:185px;
+	top:33px;
+	width:197px;
+	height:28px;
+	background-image:url(../img/ef3_2x.png);
+	background-size:197px 28px;
+}
+
+#ef4_2x {
+	left:184px;
+	top:31px;
+	width:152px;
+	height:23px;
+	background-image:url(../img/ef4_2x.png);
+	background-size:152px 23px;
+}
+
+#ef_legal_2x {
+	left:21px;
+	top:74px;
+	width:471px;
+	height:7px;
+	background-image:url(../img/ef_legal_2x.png);
+	background-size:471px 7px;
+}
+
+#legal_2x {
+	left:21px;
+	top:74px;
+	width:471px;
+	height:7px;
+	background-image:url(../img/legal_2x.png);
+	background-size:471px 7px;
+}
+
+#logo_2x {
+	left:638px;
+	top:16px;
+	width:73px;
+	height:19px;
+	background-image:url(../img/logo_2x.png);
+	background-size:73px 19px;
+}
+
+#bg1 {
+	left:0px;
+	top:0px;
+	width:728px;
+	height:90px;
+	background-image:url(../img/bg1.jpg);
+}
+
+#bg2 {
+	left:0px;
+	top:0px;
+	width:728px;
+	height:90px;
+	background-image:url(../img/bg2.jpg);
+}
+
+#bg3 {
+	left:0px;
+	top:0px;
+	width:728px;
+	height:90px;
+	background-image:url(../img/bg3.jpg);
+}
+
+#bg4 {
+	left:0px;
+	top:0px;
+	width:728px;
+	height:90px;
+	background-image:url(../img/bg4.jpg);
+}

@@ -64,14 +64,19 @@ function animate(){
     .to(bg4,3.3,{ease:Quad.easeOut,scale: 1.1},"-=.4")
     .from(copy4_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"f4c-=3")
     .to([bg4,copy4_2x,legal_2x],.4,{opacity:0,ease:Quad.easeOut},"ef-=.6")
-    // .from(ef_legal_2x,.4,{opacity:0,ease:Quad.easeOut},"ef-=.7")
+    .from(ef_legal_2x,.4,{opacity:0,ease:Quad.easeOut},"ef-=.7")
 
 
     // ef
     .from(logo_2x,.4,{opacity:0})
-    .from(ef1_2x,.2,{opacity:0,ease:Quad.easeOut,width:0}   )
-    .from(ef2_2x,.2,{opacity:0,ease:Quad.easeOut,width:0},"+=.2")
-    .from(ef3_2x,.4,{ease:Quad.easeOut,width:0},"+=.2")
+    .from(ef1_2x,.2,{opacity:0,ease:Quad.easeOut,width:0})
+    .staggerFrom([ef2_2x,ef3_2x,ef4_2x,ef5_2x],.3,{opacity:0,ease:Quad.easeOut,width:0},.3,"+=.2")
+    // .from(ef3_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"+=.2")
+    // .from(ef4_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"+=.2")
+    // .from(ef5_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"+=.2")
+
+
+
     // .to(ef3_2x,.2,{opacity:0,ease:Quad.easeOut,width:0,x:dimensions.width/2},"efSwitch+=.5")
     // .from(ef4_2x,.4,{opacity:0,ease:Quad.easeOut,width:0},"efSwitch+=.5")
 
